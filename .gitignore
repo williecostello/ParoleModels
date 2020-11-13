@@ -1,0 +1,5 @@
+# Ignore resources directory
+resources/
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints
