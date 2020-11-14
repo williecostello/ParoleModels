@@ -3,3 +3,6 @@ resources/
 
 # Ignore notebook checkpoints
 .ipynb_checkpoints
+
+# Ignore CSVs
+.csv
