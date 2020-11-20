@@ -1,2 +1,2 @@
 # ParoleModels
-An original remix of the Globe and Mail's "Bias Behind Bars"
+An original remix of the Globe and Mail's ["Bias Behind Bars"](https://www.theglobeandmail.com/canada/article-investigation-racial-bias-in-canadian-prison-risk-assessments/). Download raw data [here](https://t.co/AhLdXcSD6s).
